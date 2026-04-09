@@ -1,10 +1,11 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: XXX
- * Created on: Sep 2020
- * This program ...
+ * Created by: Brandon
+ * Created on: Mar 2026
+ * This program will locate distance using a sonar.
 */
 
+// variables
 let distanceToObject: number = 0
 
 // setup
