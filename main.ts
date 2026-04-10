@@ -1,8 +1,8 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
  * Created by: Brandon
- * Created on: Mar 2026
- * This program will locate distance using a sonar.
+ * Created on: Apr 2026
+ * This program will tell me the distance to an object using a sonar.
 */
 
 // variables
